@@ -46,3 +46,7 @@ Studio della decomposizione ai valori singolari (SVD) e delle sue applicazioni n
 
 * **Linguaggi**: C++, MATLAB
 * **Ambienti**: Compilatore C++ standard, MATLAB (con visualizzazione grafica per l'esercizio sul condizionamento)
+
+## Autore
+
+* Jeffrey Germano (Matricola: 5669424)
